@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Exit-9B/MCM-Helper/main/docs/config.schema.json",
+    "modName": "Dual_Wield_Parrying_MCH",
+    "displayName": "Dual Wield Parrying",
+    "minMcmVersion": 13,
+    "pluginRequirements": ["Dual Wield Parrying_SKSE.esp"],
+    "cursorFillMode": "topToBottom",
+    "content": [],
+    "pages": [{
+        "pageDisplayName": "General",
+        "content": [
+            {
+                "text": "",
+                "type": "header"
+            },
+            {
+                "id": "",
+                "text": "",
+                "type": "keymap",
+                "help": "",
+                "ignoreConflicts": false
+            },
+            {
+                "text": "",
+                "type": "toggle",
+                "help": ""
+            }
+        ]
+    }]
+}
